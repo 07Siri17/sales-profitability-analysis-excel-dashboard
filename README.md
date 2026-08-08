@@ -7,12 +7,6 @@ The project transforms transaction-level sales data into an executive-style dash
 
 ---
 
-## 📊 Dashboard Preview
-
-![Sales & Profitability Dashboard](Sales &.png)
-
----
-
 ## 🎯 Business Objective
 
 The objective of this project is to analyze sales and profitability data and provide a consolidated view of business performance.
