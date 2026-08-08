@@ -1,5 +1,4 @@
-# sales-profitability-analysis-excel-dashboard
---
+
 # Sales & Profitability Analysis Dashboard | Excel
 
 An interactive Excel dashboard built to analyze sales performance, profitability, product contribution, customer segments, sales channels, categories, regions, and monthly profit trends.
