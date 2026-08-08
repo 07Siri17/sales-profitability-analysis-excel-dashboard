@@ -9,7 +9,7 @@ The project transforms transaction-level sales data into an executive-style dash
 
 ## 📊 Dashboard Preview
 
-![Sales & Profitability Dashboard](dashboard.png)
+![Sales & Profitability Dashboard](Sales &.png)
 
 ---
 
